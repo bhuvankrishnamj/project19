@@ -1,4 +1,4 @@
 # project19
 check this out 
 <br>
-Author- Bhuvan krishna mj(computer science )
+Author- Bhuvan krishna mj
