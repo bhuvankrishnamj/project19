@@ -1,0 +1,16 @@
+#red{
+    background-color: red;
+    text-align: center;
+    text-size-adjust: 20;
+}
+#yellow{
+    background-color: yellow;
+    text-align: right;
+    text-size-adjust: 20;
+}
+#blue{
+    background-color: blue;
+    text-align: end;
+    text-size-adjust: 20;
+    
+}
