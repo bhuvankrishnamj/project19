@@ -14,11 +14,19 @@
    
 }
 h1{
-    color: brown;
+    color: black;
+    text-align: center;
+    background-color: navajowhite;
 }
-image{
-    justify-content: center;
-}
+
 html{
-    background-color: gray;
+    background-color:blueviolet;
+}
+div{
+    text-align: center;
+    background-color:navajowhite ;
+
+}
+a{
+    text-align-last: center;
 }
