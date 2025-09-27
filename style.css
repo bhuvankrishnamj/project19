@@ -33,3 +33,8 @@ a{
 div{
     border: 10px solid black;
 }
+image{
+    height: 100px;
+    width: 50px;
+    text-align: center;
+}
